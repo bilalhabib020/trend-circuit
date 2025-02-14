@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bilalhabib020.github.io/trendcircuit",
+  "homepage": "https://bilalhabib020.github.io/trend-circuit",
 
   "scripts": {
     "dev": "vite",
